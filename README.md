@@ -2,7 +2,7 @@
 
 **Software Engineer · AI Systems & Full-Stack Applications · Dublin, Ireland**
 
-I’m especially interested in AI systems and full-stack applications—bringing thoughtful interfaces, useful data, and intelligent features together into products people can use.
+I’m especially interested in AI systems and full-stack applications. I enjoy bringing thoughtful interfaces, useful data, and intelligent features together into products people can use.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t-j-gbadebo-1567a822b/) · [Portfolio](https://github.com/TGbadebo02/TGbadebo-portfolio)
 
