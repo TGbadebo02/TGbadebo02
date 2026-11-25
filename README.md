@@ -6,6 +6,13 @@ I’m especially interested in AI systems and full-stack applications. I enjoy b
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t-j-gbadebo-1567a822b/) · [Portfolio](https://github.com/TGbadebo02/TGbadebo-portfolio)
 
+
+## Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,python,django,mongodb,postgres,mysql,git,vscode,docker" alt="HTML, CSS, JavaScript, React, Tailwind CSS, Node.js, Express, Python, Django, MongoDB, PostgreSQL, MySQL, Git, VS Code, and Docker" />
+</p>
+
 ---
 
 ## Featured projects
